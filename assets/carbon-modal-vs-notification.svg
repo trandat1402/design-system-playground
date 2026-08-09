@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" font-family="Inter, ui-sans-serif, system-ui, -apple-system, sans-serif" role="img" aria-label="So sanh Notification khong chan luong va Modal chan luong">
+  <rect width="1200" height="440" fill="#FFFFFF"/>
+  <text x="64" y="64" font-size="32" font-weight="600" fill="#161616">Modal chặn luồng làm việc, Notification thì không</text>
+  <text x="64" y="100" font-size="17" fill="#525252">Chọn theo một câu hỏi: người dùng có buộc phải quyết định ngay không?</text>
+  <g transform="translate(64 140)">
+    <text x="0" y="20" font-size="16" font-weight="600" fill="#161616">Notification: chỉ thông báo kết quả</text>
+    <rect x="0" y="32" width="520" height="196" rx="8" fill="#FFFFFF" stroke="#E0E0E0"/>
+    <rect x="1" y="33" width="518" height="34" fill="#F4F4F4"/>
+    <text x="20" y="55" font-size="13" fill="#525252">Trang đang làm việc</text>
+    <rect x="20" y="92" width="220" height="10" rx="2" fill="#E0E0E0"/>
+    <rect x="20" y="112" width="180" height="10" rx="2" fill="#E0E0E0"/>
+    <rect x="20" y="132" width="200" height="10" rx="2" fill="#E0E0E0"/>
+    <rect x="20" y="164" width="120" height="36" fill="#0F62FE"/>
+    <text x="80" y="187" font-size="14" fill="#FFFFFF" text-anchor="middle">Tiếp tục</text>
+    <rect x="272" y="88" width="228" height="64" fill="#FFFFFF" stroke="#E0E0E0"/>
+    <rect x="272" y="88" width="4" height="64" fill="#0F62FE"/>
+    <text x="292" y="114" font-size="14" font-weight="600" fill="#161616">Đã lưu thay đổi</text>
+    <text x="292" y="136" font-size="12" fill="#525252">Bạn vẫn làm việc bình thường</text>
+    <text x="0" y="256" font-size="14" fill="#525252">Nút chính vẫn bấm được: luồng không bị dừng</text>
+  </g>
+  <g transform="translate(616 140)">
+    <text x="0" y="20" font-size="16" font-weight="600" fill="#161616">Modal: buộc quyết định trước</text>
+    <rect x="0" y="32" width="520" height="196" rx="8" fill="#FFFFFF" stroke="#E0E0E0"/>
+    <rect x="1" y="33" width="518" height="34" fill="#F4F4F4"/>
+    <text x="20" y="55" font-size="13" fill="#525252">Trang đang làm việc</text>
+    <rect x="20" y="92" width="220" height="10" rx="2" fill="#E0E0E0"/>
+    <rect x="20" y="112" width="180" height="10" rx="2" fill="#E0E0E0"/>
+    <rect x="20" y="132" width="200" height="10" rx="2" fill="#E0E0E0"/>
+    <rect x="20" y="164" width="120" height="36" fill="#C6C6C6"/>
+    <text x="80" y="187" font-size="14" fill="#FFFFFF" text-anchor="middle">Tiếp tục</text>
+    <rect x="1" y="33" width="518" height="194" rx="7" fill="#161616" fill-opacity="0.45"/>
+    <rect x="120" y="76" width="280" height="112" fill="#FFFFFF"/>
+    <text x="140" y="106" font-size="15" font-weight="600" fill="#161616">Xóa tài khoản?</text>
+    <text x="140" y="128" font-size="12" fill="#525252">Hành động không thể hoàn tác</text>
+    <rect x="140" y="142" width="64" height="30" fill="#FFFFFF" stroke="#0F62FE" stroke-width="1.5"/>
+    <text x="172" y="162" font-size="13" fill="#0F62FE" text-anchor="middle">Hủy</text>
+    <rect x="212" y="142" width="72" height="30" fill="#DA1E28"/>
+    <text x="248" y="162" font-size="13" fill="#FFFFFF" text-anchor="middle">Xóa</text>
+    <text x="0" y="256" font-size="14" fill="#525252">Nền bị làm mờ và vô hiệu: luồng dừng lại</text>
+  </g>
+</svg>
